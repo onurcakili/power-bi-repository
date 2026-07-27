@@ -1,0 +1,14 @@
+﻿{
+  "name": "Learning Portfolio Theme",
+  "dataColors": [
+    "#1F77B4",
+    "#2CA02C",
+    "#FF7F0E",
+    "#D62728",
+    "#9467BD",
+    "#8C564B"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#222222",
+  "tableAccent": "#1F77B4"
+}

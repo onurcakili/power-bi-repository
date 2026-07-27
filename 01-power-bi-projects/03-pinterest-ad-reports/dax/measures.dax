@@ -1,0 +1,7 @@
+﻿// Pinterest AD Reports
+// Paste safe DAX measures exported or copied from Power BI Desktop.
+// Keep private business logic out if this repository becomes public.
+
+// Example:
+// Total Sales =
+// SUM(FactSales[SalesAmount])

@@ -1,0 +1,11 @@
+﻿# Power BI Project local files
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Temporary exports
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
